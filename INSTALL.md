@@ -2,7 +2,7 @@
 
 This application NodeJS for server-side rendering. It can also be installed on Heroku with one-click by clicking the button below.
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/opentok/opentok-video-embed-demo/tree/master)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/opentok/opentok-embed-appointment/tree/master)
 
 ## Requirements
 
@@ -14,11 +14,11 @@ Install the following:
 
 ## Setup
 
-Clone or [download](https://github.com/opentok/opentok-video-embed-demo/archive/master.zip) the project and change to the project root directory:
+Clone or [download](https://github.com/opentok/opentok-embed-appointment/archive/master.zip) the project and change to the project root directory:
 
 ```sh
-$ git clone git://github.com/opentok/opentok-video-embed-demo
-$ cd opentok-video-embed-demo
+$ git clone git://github.com/opentok/opentok-embed-appointment
+$ cd opentok-embed-appointment
 ```
 
 Install application dependencies:

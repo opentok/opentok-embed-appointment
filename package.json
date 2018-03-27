@@ -1,5 +1,5 @@
 {
-  "name": "ot_embed_appointment_demo",
+  "name": "opentok-embed-appointment",
   "version": "0.0.1",
   "description": "A small demo application demonstrating usage of OpenTok Embeds in appointments.",
   "private": true,

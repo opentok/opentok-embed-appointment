@@ -71,11 +71,11 @@ This project will use a directory structure like this:
 /views/ - Contains views served by routes.
 ```
 
-Create a new directory called "opentok-video-embed-demo" and create the directory structure shown above in it. We'll use this directory as our project root going ahead.
+Create a new directory called "opentok-embed-appointment" and create the directory structure shown above in it. We'll use this directory as our project root going ahead.
 
 ```sh
-$ mkdir -p opentok-video-embed-demo/{bin,routes,static,views}
-$ cd opentok-video-embed-demo
+$ mkdir -p opentok-embed-appointment/{bin,routes,static,views}
+$ cd opentok-embed-appointment
 $ mkdir -p static/{css,js}
 ```
 

@@ -2,7 +2,7 @@
 
 An appointment application that uses [OpenTok Video Embeds](https://tokbox.com/developer/embeds/) to provide real-time video communication.
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/opentok/opentok-video-embed-demo/tree/master)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/opentok/opentok-embed-appointment/tree/master)
 
 # Table of Contents
 
@@ -58,8 +58,8 @@ First up, install NodeJS and `npm`.
 Once all of these are ready, create a directory and initiate an `npm` project:
 
 ```sh
-$ mkdir -p opentok-video-embed-demo/{bin,routes,static,views}
-$ cd opentok-video-embed-demo
+$ mkdir -p opentok-embed-appointment/{bin,routes,static,views}
+$ cd opentok-embed-appointment
 $ npm init -y
 ```
 
