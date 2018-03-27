@@ -1,9 +1,13 @@
 {
   "buildpacks": [],
   "env": {
+    "OPENTOK_EMBED_CODE": {
+      "description": "The Video Embed code from your TokBox account",
+      "required": true
+    },
     "LOCK_SETUP": {
-      "description": "Lock updating of OpenTok embed code once it has been set. Set to 'true' to enable lock",
-      "value": "false",
+      "description": "Hide option to change OpenTok embed code once it has been set. Set to 'true' to enable lock",
+      "value": "true",
       "required": false
     },
     "NODE_ENV": {

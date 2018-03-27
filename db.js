@@ -5,7 +5,7 @@ let DB = {
   meetings: [],
 
   // Used to store embed code
-  embed_code: ""
+  embed_code: process.env.OPENTOK_EMBED_CODE || ""
 };
 
 let sort = m_list => {
