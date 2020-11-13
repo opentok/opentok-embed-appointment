@@ -6,19 +6,25 @@ An appointment application that uses [OpenTok Video Embeds](https://tokbox.com/d
 
 # Table of Contents
 
+- [OpenTok Embed Appointment Demo](#opentok-embed-appointment-demo)
+- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
+  - [Workflow](#workflow)
 - [Tutorial](#tutorial)
 - [Install](#install)
 - [Walkthrough](#walkthrough)
-  - [Workflow](#workflow)
-  - [Tech dependencies](#tech-dependencies)
+  - [Dependencies](#dependencies)
   - [Initializing application](#initializing-application)
-  - [Data store](#data-store)
   - [Setup ExpressJS app](#setup-expressjs-app)
   - [Setup routes](#setup-routes)
+  - [Storing Data](#storing-data)
+    - [Dashboard routes](#dashboard-routes)
   - [Meetings](#meetings)
     - [Generate dynamic rooms using embed](#generate-dynamic-rooms-using-embed)
   - [Server startup script](#server-startup-script)
+  - [Development and Contributing](#development-and-contributing)
+  - [Getting Help](#getting-help)
+  - [Further Reading](#further-reading)
 
 # Overview
 
@@ -282,3 +288,21 @@ $ node ./bin/www
 ```
 
 **Note**: This application needs to be served over HTTPS. See [INSTALL.md](INSTALL.md) for details.
+
+## Development and Contributing
+
+Interested in contributing? We :heart: pull requests! See the 
+[Contribution](CONTRIBUTING.md) guidelines.
+
+## Getting Help
+
+We love to hear from you so if you have questions, comments or find a bug in the project, let us know! You can either:
+
+- Open an issue on this repository
+- See <https://support.tokbox.com/> for support options
+- Tweet at us! We're [@VonageDev](https://twitter.com/VonageDev) on Twitter
+- Or [join the Vonage Developer Community Slack](https://developer.nexmo.com/community/slack)
+
+## Further Reading
+
+- Check out the Developer Documentation at <https://tokbox.com/developer/>
